@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Adrian Cooney}
+((* endblock author *))
+
+((* block title *))
+\title{Poop}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{plain}
+\bibliography{ref}
+((* endblock bibliography *))

@@ -1,2 +1,4 @@
 .DS_Store
 Lectures
+.ipynb_checkpoints
+.idea
